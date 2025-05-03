@@ -23,7 +23,8 @@ Initially, the dataset is **imbalanced**, which can bias model performance. To m
 ##  Workflow Summary
 
 ###  1. Imbalanced Data
-- Implemented traditional **machine learning algorithms**
+- Implemented traditional **machine learning algorithms** and balanced data using different
+  techniques like undersampling, oversampling and SMOTE
 - Found in `machinelearning.ipynb`
 
 - Applied **deep learning and transfer learning** techniques:
@@ -40,8 +41,6 @@ Initially, the dataset is **imbalanced**, which can bias model performance. To m
 - Found in `data_augmentation.ipynb`
 
 ###  3. Balanced Data
-- Re-implemented ML algorithms on balanced data:
-  - Found in `balancedmachinelearning.ipynb`
 
 - Re-trained CNN and transfer learning models:
   - Found in `balanceddeeplearning.ipynb`
@@ -70,6 +69,5 @@ Initially, the dataset is **imbalanced**, which can bias model performance. To m
    1.machinelearning.ipynb
    2.deeplearning.ipynb
    3.data_augmentation.ipynb
-   4.balancedmachinelearning.ipynb
    5.balanceddeeplearning.ipynb
 
